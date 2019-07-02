@@ -1,2 +1,2 @@
-# MapQuest-API
+# MapQuest Program
 A program capable of retrieving directions, total distance, total time, and points of interests from MapQuest
